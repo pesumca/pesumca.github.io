@@ -1,0 +1,107 @@
+/*------------------------------------*\
+  Components > Off Canvas
+\*------------------------------------*/
+
+$off-canvas-width: 300px;
+
+.c-off-canvas-toggle {
+  position: relative;
+  z-index: 10;
+  height: 19px;
+  width: 25px;
+  cursor: pointer;
+  display: inline-block;
+  vertical-align: middle;
+
+  &__icon {
+    position: absolute;
+    left: 0;
+    height: 1px;
+    width: 25px;
+    background: $bg-color-dark;
+    cursor: pointer;
+
+    &:before,
+    &:after {
+      content: '';
+      display: block;
+      height: 100%;
+      background-color: inherit;
+      transition: $global-transition;
+    }
+
+    &:before { transform: translateY(16px) }
+    &:after { transform: translateY(7px); }
+
+    .c-off-canvas-toggle--close & {
+      height: 2px;
+      background-color: transparent;
+
+      &:before,
+      &:after {
+        position: relative;
+        visibility: visible;
+        background: $bg-color-dark;
+      }
+
+      &:before {
+        top: 11px;
+        transform: rotate(-45deg);
+      }
+
+      &:after {
+        top: 9px;
+        transform: rotate(45deg);
+      }
+    }
+  }
+
+  &--close {
+    margin-bottom: $base-spacing-unit;
+  }
+}
+
+// prevent horizontal scroll during off-canvas
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+.c-off-canvas-content {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  width: $off-canvas-width;
+  height: 100%;
+  padding: ($base-spacing-unit + half($base-spacing-unit)) double($base-spacing-unit);
+  transform: translate3d(- $off-canvas-width, 0, 0);
+
+  @include ie() {
+    background-color: $bg-color-white;
+
+    &.is-active {
+      left: $off-canvas-width;
+    }
+  };
+}
+
+.c-off-canvas-container {
+  -webkit-perspective: 1000;
+  transition: transform $global-transition cubic-bezier(.16, .68, .43, .99);
+
+  &.is-active {
+    transform: translate3d($off-canvas-width, 0, 0);
+
+    &:after {
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      content: '';
+      background-color: rgba(0, 0, 0, .5);
+    }
+  }
+}
