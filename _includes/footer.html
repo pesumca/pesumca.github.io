@@ -1,42 +1,19 @@
-<footer class='c-footer'>
-  <div class='o-grid'>
-    <div class='o-grid__col o-grid__col--full'>
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
 
-      <ul class='o-plain-list c-social-nav u-text-center'>
-        {% if site.twitter_username %}
-          <li class='c-social-nav__item'>
-            <a href='http://www.twitter.com/{{ site.twitter_username }}' target='_blank'>
-              <span class='c-social-nav__icon' data-icon='ei-sc-twitter' data-size='s'></span>
-            </a>
-          </li>
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
         {% endif %}
-        {% if site.instagram_username %}
-          <li class='c-social-nav__item'>
-            <a href='https://instagram.com/{{ site.instagram_username }}' target='_blank'>
-              <span class='c-social-nav__icon' data-icon='ei-sc-instagram' data-size='s'></span>
-            </a>
-          </li>
-        {% endif %}
-        {% if site.github_username %}
-        <li class='c-social-nav__item'>
-          <a href='http://www.github.com/{{ site.github_username }}' target='_blank'>
-            <span class='c-social-nav__icon' data-icon='ei-sc-github' data-size='s'></span>
-          </a>
-        </li>
-        {% endif %}
-        {% if site.email %}
-        <li class='c-social-nav__item'>
-          <a href='mailto:{{ site.email }}' target='_blank'>
-            <span class='c-social-nav__icon' data-icon='ei-envelope' data-size='s'></span>
-          </a>
-        </li>
-        {% endif %}
-      </ul>
+      {% endfor %}
+    {% endif %}
 
-      <div class='u-text-center'>
-        <span class='u-font-small u-font-sans-serif'>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</span>
-      </div>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+  </ul>
+</div>
 
-    </div>
-  </div>
-</footer>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by }}</div>

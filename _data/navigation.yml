@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Posts By Category"
+    url: /categories/
+  - title: "Posts by Tags"
+    url: /tags/
