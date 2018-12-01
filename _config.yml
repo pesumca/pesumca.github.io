@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maptapeb"
+title                    : "{maptapeb}"
 title_separator          : "-"
-name                     : "Maptapeb"
+name                     : "maptapeb"
 description              : "PES University MCA's Official Magazine"
 url                      : "https://pesumca.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
