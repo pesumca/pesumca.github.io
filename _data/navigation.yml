@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "about;"
+  - title: "about();"
     url: /about/
-  - title: "postsByCategory()"
+  - title: "postsByCategory();"
     url: /categories/
-  - title: "postsByTags()"
+  - title: "postsByTags();"
     url: /tags/
