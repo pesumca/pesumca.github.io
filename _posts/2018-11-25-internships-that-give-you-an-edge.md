@@ -4,6 +4,7 @@ excerpt: "Chasing the dream jobs has become like a rat race for students in toda
 header:
   teaser: "/assets/images/posts/internships.jpg"
   overlay_image: "/assets/images/posts/internships.jpg"
+  overlay_filter: 0.6
 categories: 
   - Internships
   - Placements
