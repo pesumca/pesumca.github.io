@@ -8,15 +8,4 @@ header:
 excerpt: Welcome to PES University MCA's Official Magazine!
 ---
 
-# What is MAPTAPEB?
-
-M - **Magazine (of),**  
-A - **Articles (on),**  
-P - **Personality,**  
-T - **Technology,**  
-A - **Achievements &,**       
-P - **Participation of students in various events,**  
-E - **Entertainment (sketches, poetry etc),**  
-B - **Brainstorm (riddles etc),**   
-
 Read more about our code of conduct [here](https://github.com/pesumca/code-of-conduct){:target="_blank"}
