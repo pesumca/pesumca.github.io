@@ -21,14 +21,15 @@ Registrations For Prakalpa 2019 Open Now!
 
 | Event                 | Place           | Timings                     | Details             |
 | :---                  | :----           | :---                        | :--                 |
-| Blind Coding          | MCA Lab         | 9:30 am - 10:30 am          | 1st round - 20 min  |
+| Blind Coding          | MCA Lab         | 9:30 am - 10:30 am          | 2 in a team  |
+|                       |                 |                             | 1st round - 20 min  |
 |                       |                 |                             | 2nd round - 40 min  |
 | IT Quiz               | MCA Dept        | 10:30 am - 11:30 am         | 2 in a team         |
-| Assemble the PC       | MCA Dept        | 11:30 am - 12:30 pm         | 2 in a team         |      
+| Assemble the PC       | MCA Lab         | 11:30 am - 12:30 pm         | 2 in a team         |      
 | | | | Participants have to assemble the PC components within the given time. |
 | | | | Mentors guidance will be provided. |
 | | | | Damage to any components is strictly prohibited, failing which the team will be disqualified  |              
-| Treasure hunt         | MCA Dept        | 12:30 pm - 1:30 pm          | 3 in a team         |                      
+| Treasure Hunt         | MCA Dept        | 12:30 pm - 1:30 pm          | 3 in a team         |                      
 | | | | Teams who come late will be disqualified   |
 
 ## Registration Link
