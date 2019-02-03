@@ -1,5 +1,5 @@
 ---
-title:  "Registerations For Prakalpa 2019 Open Now!"
+title:  "Registrations For Prakalpa 2019 Open Now!"
 excerpt: "Prakalpa is PES University’s flagship technological event that showcases the best projects and demonstrations that PES University has to offer."
 header:
   teaser: "/assets/images/pages/about.jpg"
@@ -13,9 +13,9 @@ author: Sudhanva
 
 The event has been going for years now and is widely popular across the country with over 10000 visitors. Every year, a stall or a section of the event platform is allocated across every department of the university, where students of every branch of the university display a wide range of projects conceived and implemented by the students under the expert guidance of the faculty. The event is day-long and attracts students from various institutions and the public. People enjoyed a wide variety of practical projects. During the event, students want the visitors to get the best glimpse of the technological development in PES University. Every project displayed will be judged upon and a handful of winners are selected.
 
-# Details
+## Details
 
-Registerations For Prakalpa 2019 Open Now!
+Registrations For Prakalpa 2019 Open Now!
 
 ## Registration Link
 
