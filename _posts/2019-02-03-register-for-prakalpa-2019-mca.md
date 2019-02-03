@@ -17,6 +17,12 @@ The event has been going for years now and is widely popular across the country 
 
 Registrations For Prakalpa 2019 Open Now!
 
+## Event Schedule
+
+| Event       | Place       | Timings       |
+| :---        | :----       | :---          |
+| To          | Be Announced    | Soon          |
+
 ## Registration Link
 
 Register [here](https://goo.gl/forms/WKxFcNBhZ7jAn70H2)
