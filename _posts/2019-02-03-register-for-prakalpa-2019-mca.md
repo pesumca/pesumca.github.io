@@ -11,7 +11,9 @@ date: "2019-02-03"
 author: Sudhanva
 ---
 
-The event has been going for years now and is widely popular across the country with over 10000 visitors. Everyyear, a stall or a section of the event platform is allocated across every department of the university, wherestudents of every branch of the university display a wide range of projects conceived and implemented by thestudents under the expert guidance of the faculty. The event is day-long and attracts students from variousinstitutions and the public. People enjoyed a wide variety of practical projects. During the event, students wantthe visitors to get the best glimpse of the technological development in PES University. Every project displayedwill be judged upon and a handful of winners are selected.
+<div style="text-align:justify">
+The event has been going for years now and is widely popular across the country with over 10000 visitors. Every year, a stall or a section of the event platform is allocated across every department of the university, where students of every branch of the university display a wide range of projects conceived and implemented by the students under the expert guidance of the faculty. The event is day-long and attracts students from various institutions and the public. People enjoyed a wide variety of practical projects. During the event, students want the visitors to get the best glimpse of the technological development in PES University. Every project displayed will be judged upon and a handful of winners are selected.
+</div>
 
 ## Details
 
