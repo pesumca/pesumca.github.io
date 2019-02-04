@@ -24,6 +24,7 @@ Registrations For Prakalpa 2019 Now Open! All events below are conducted by the 
 | Event                 | Place           | Timings                     | Details             |
 | :---                  | :----           | :---                        | :--                 |
 | Blind Coding          | MCA Lab         | 9:30 am - 10:30 am          | 2 in a team  |
+|                       |                 |                             | C/C++ only  |
 |                       |                 |                             | 1st round - 20 min  |
 |                       |                 |                             | 2nd round - 40 min  |
 | IT Quiz               | MCA Lab        | 10:30 am - 11:30 am         | 2 in a team         |
