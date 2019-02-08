@@ -27,11 +27,9 @@ Registrations For Prakalpa 2019 Now Open! All events below are conducted by the 
 
 | Event                     | Venue                 | Timings                     | Details                   | Event Co-ordinator                    | Phone No.                 |
 |              :--                |               :--           |         :--                     |              :--              |               :--                       |       :--                   |
-|              Welcome Address                |           Room A008              |             9:15 am                 |            -                |                     -                 |             -             |
+|              Welcome Address                |           Room A001              |             9:15 am                 |            -                |                     -                 |             -             |
 |              Blind Coding (Round 1)*        |           MCA Lab               |             9:30 am                 | 2 in a team  | Chirag                       |            9924424077              |
 |                       |                 |                             | Language: C/C++  |
-|                       |                 |                             | 1st round - 20 min  |
-|                       |                 |                             | 2nd round - 40 min  |              
 |              IT Quiz (Round 1)*             |           MCA Lab               |             9:45 am                 |           2 in a team        |               Meenakshi                       |         9591265035                 |
 |              Building Blocks - Assemble the PC (Round 1)*                |        MCA Lab                  |            11:30 am                   | 2 in a team         |         Shubam                   |           9732237583               |
 | | | | Participants have to assemble the PC components within the given time. |
