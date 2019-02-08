@@ -19,21 +19,30 @@ The event has been going for years now and is widely popular across the country 
 
 Registrations For Prakalpa 2019 Now Open! All events below are conducted by the department of MCA, PES University
 
+**Important Update:** Events schedule has been updates. Please check the table below.
+
+**Important Notice:** All participants are requested to report at 8:45 pm. Teams who fail to arrive on time will be disqualified.
+
 ## Event Schedule
 
-| Event                 | Place           | Timings                     | Details             |
-| :---                  | :----           | :---                        | :--                 |
-| Blind Coding          | MCA Lab         | 9:30 am - 10:30 am          | 2 in a team  |
+| Event                     | Venue                 | Timings                     | Details                   | Event Co-ordinator                    | Phone No.                 |
+|              :--                |               :--           |         :--                     |              :--              |               :--                       |       :--                   |
+|              Welcome Address                |           Room A008              |             9:15 am                 |            -                |                     -                 |             -             |
+|              Blind Coding (Round 1)*        |           MCA Lab               |             9:30 am                 | 2 in a team  | Chirag                       |            9924424077              |
 |                       |                 |                             | Language: C/C++  |
 |                       |                 |                             | 1st round - 20 min  |
-|                       |                 |                             | 2nd round - 40 min  |
-| IT Quiz               | MCA Lab        | 10:30 am - 11:30 am         | 2 in a team         |
-| Building Blocks (Assemble the PC)       | MCA Lab         | 11:30 am - 12:30 pm         | 2 in a team         |      
+|                       |                 |                             | 2nd round - 40 min  |              
+|              IT Quiz (Round 1)*             |           MCA Lab               |             9:45 am                 |           2 in a team        |               Meenakshi                       |         9591265035                 |
+|              Building Blocks - Assemble the PC (Round 1)*                |        MCA Lab                  |            11:30 am                   | 2 in a team         |         Shubam                   |           9732237583               |
 | | | | Participants have to assemble the PC components within the given time. |
 | | | | Mentors guidance will be provided. |
-| | | | Damage to any components is strictly prohibited, failing which the team will be disqualified  |              
-| Treasure Hunt         | MCA Dept        | 12:30 pm - 1:30 pm          | 3 in a team         |                      
-| | | | Teams who come late will be disqualified   |
+| | | | Damage to any components is strictly prohibited, failing which the team will be disqualified  |                 
+|              Lunch Break          |            A002                  |  12:30 pm - 1:00 pm               |                        -              |                   -                   |              -            |
+|              Treasure Hunt                |       MCA Dept.      |     1:00 pm - 2:00 pm                     | 3 in a team         |          Bhumika                 |            7892517821                          |                   
+| | | | Teams who come late will be disqualified   |         
+|              Valeditory Function                |            MCA Seminar Hall              |           2:15 pm                |              -              |                 -                     |             -             |
+
+*Further round details will be intimated at the event venue.
 
 ## Registration Link
 
