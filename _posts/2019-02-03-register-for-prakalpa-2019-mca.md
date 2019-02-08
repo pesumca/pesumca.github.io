@@ -37,7 +37,7 @@ Registrations For Prakalpa 2019 Now Open! All events below are conducted by the 
 | | | | Participants have to assemble the PC components within the given time. |
 | | | | Mentors guidance will be provided. |
 | | | | Damage to any components is strictly prohibited, failing which the team will be disqualified  |                 
-|              Lunch Break          |            A002                  |  12:30 pm - 1:00 pm               |                        -              |                   -                   |              -            |
+|              Lunch Break          |            A002                  |  12:30 pm - 1:00 pm               |                       Lunch will be provided for all the participants              |                   -                   |              -            |
 |              Treasure Hunt                |       MCA Dept.      |     1:00 pm - 2:00 pm                     | 3 in a team         |          Bhumika                 |            7892517821                          |                   
 | | | | Teams who come late will be disqualified   |         
 |              Valeditory Function                |            MCA Seminar Hall              |           2:15 pm                |              -              |                 -                     |             -             |
