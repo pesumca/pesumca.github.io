@@ -19,9 +19,9 @@ The event has been going for years now and is widely popular across the country 
 
 Registrations For Prakalpa 2019 Now Open! All events below are conducted by the department of MCA, PES University
 
-**Important Update:** Events schedule has been updates. Please check the table below.
+**Important Update:** Events schedule has been updated. Please check the table below.
 
-**Important Notice:** All participants are requested to report at 8:45 pm. Teams who fail to arrive on time will be disqualified.
+**Important Notice:** All participants are requested to report at 8:45 am. Teams who fail to arrive on time will be disqualified.
 
 ## Event Schedule
 
