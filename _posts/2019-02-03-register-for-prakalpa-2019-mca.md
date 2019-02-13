@@ -1,5 +1,5 @@
 ---
-title:  "Registrations For Prakalpa 2019 Now Open!"
+title:  "Registrations For Prakalpa 2019 Closed"
 excerpt: "Prakalpa is PES University's flagship technological event that showcases the best projects and demonstrations that PES University has to offer."
 header:
   teaser: "/assets/images/pages/about.jpg"
@@ -17,7 +17,7 @@ The event has been going for years now and is widely popular across the country 
 
 ## Details
 
-Registrations For Prakalpa 2019 Now Open! All events below are conducted by the department of MCA, PES University
+Registrations For Prakalpa 2019 Now Closed. All events below are conducted by the department of MCA, PES University
 
 **Important Update:** Events schedule has been updated. Please check the table below.
 
@@ -25,20 +25,20 @@ Registrations For Prakalpa 2019 Now Open! All events below are conducted by the 
 
 ## Event Schedule
 
-| Event                     | Venue                 | Timings                     | Details                   | Event Co-ordinator                    | Phone No.                 |
-|              :--                |               :--           |         :--                     |              :--              |               :--                       |       :--                   |
-|              Welcome Address                |           Room A001              |             9:15 am                 |            -                |                     -                 |             -             |
-|              Blind Coding (Round 1)*        |           MCA Lab               |             9:30 am                 | 2 in a team  | Chirag                       |            9924424077              |
-|                       |                 |                             | Language: C/C++  |
-|              IT Quiz (Round 1)*             |           MCA Lab               |             9:45 am                 |           2 in a team        |               Meenakshi                       |         9591265035                 |
-|              Building Blocks - Assemble the PC (Round 1)*                |        MCA Lab                  |            11:30 am                   | 2 in a team         |         Shubam                   |           9732237583               |
-| | | | Participants have to assemble the PC components within the given time. |
-| | | | Mentors guidance will be provided. |
-| | | | Damage to any components is strictly prohibited, failing which the team will be disqualified  |                 
-|              Lunch Break          |            A002                  |  12:30 pm - 1:00 pm               |                       Lunch will be provided for all the participants              |                   -                   |              -            |
-|              Treasure Hunt                |       MCA Dept.      |     1:00 pm - 2:00 pm                     | 3 in a team         |          Bhumika                 |            7892517821                          |                   
-| | | | Teams who come late will be disqualified   |         
-|              Valeditory Function                |            MCA Seminar Hall              |           2:15 pm                |              -              |                 -                     |             -             |
+| Event                                        | Venue            | Timings            | Details                                                                                      | Event Co-ordinator | Phone No.  |
+| :------------------------------------------- | :--------------- | :----------------- | :------------------------------------------------------------------------------------------- | :----------------- | :--------- |
+| Welcome Address                              | Room A001        | 9:15 am            | -                                                                                            | -                  | -          |
+| Blind Coding (Round 1)*                      | MCA Lab          | 9:30 am            | 2 in a team                                                                                  | Chirag             | 9924424077 |
+|                                              |                  |                    | Language: C/C++                                                                              |
+| IT Quiz (Round 1)*                           | MCA Lab          | 9:45 am            | 2 in a team                                                                                  | Meenakshi          | 9591265035 |
+| Building Blocks - Assemble the PC (Round 1)* | MCA Lab          | 11:30 am           | 2 in a team                                                                                  | Shubam             | 9732237583 |
+|                                              |                  |                    | Participants have to assemble the PC components within the given time.                       |
+|                                              |                  |                    | Mentors guidance will be provided.                                                           |
+|                                              |                  |                    | Damage to any components is strictly prohibited, failing which the team will be disqualified |
+| Lunch Break                                  | A002             | 12:30 pm - 1:00 pm | Lunch will be provided for all the participants                                              | -                  | -          |
+| Treasure Hunt                                | MCA Dept.        | 1:00 pm - 2:00 pm  | 3 in a team                                                                                  | Bhumika            | 7892517821 |
+|                                              |                  |                    | Teams who come late will be disqualified                                                     |
+| Valeditory Function                          | MCA Seminar Hall | 2:15 pm            | -                                                                                            | -                  | -          |
 
 *Further round details will be intimated at the event venue.
 
