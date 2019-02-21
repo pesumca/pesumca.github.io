@@ -34,3 +34,21 @@ Sudhanva:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/nsudhanva"
+Navya:
+  name: "Navya V"
+  bio: "Student, 2nd Semester, Master of Computer Applications, PES University"
+  avatar: "/assets/images/authors/navya.jpg"
+  location: "Bengaluru, India"
+  links:
+    - label: "vnavya11.10@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:vnavya11.10@gmail.com"
+Akshay B A:
+  name: "Akshay B A"
+  bio: "Student, 2nd Semester, Master of Computer Applications, PES University"
+  avatar: "/assets/images/authors/akshayba.jpg"
+  location: "Bengaluru, India"
+  links:
+    - label: "akshayba18@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "akshayba18@gmail.com"
