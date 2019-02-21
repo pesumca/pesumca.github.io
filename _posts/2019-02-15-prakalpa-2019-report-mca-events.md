@@ -82,8 +82,6 @@ The day where the genius minds come together to portray their creativity and vas
 
 These activities were the collective ideas and efforts put in by the students of PES University. Most importantly the main star of the whole event was the display of the projects done by students. The students actively presented their projects to several interested onlookers and were judged based on their creativity, technology used as well as the way it was being presented. From our prestigious MCA department, we had a couple of students who keenly brought forward their ideas and made it a practical success.
 
-{% include gallery id="gallery2" layout="half" caption="Our students at exibition stall" %}
-
 There were several ideas and projects among which a few we’re the ‘Guess Master’ which was being presented by Shreya Nayak of class MCA-II (2018-2021) who actively demonstrated the working of the project where the basic motive was to create a game application which would allow the user to think of a Bollywood celebrity in their mind and the application would guess who that celebrity was by asking a series of questions leading to the answer. 
 An ensemble learning method was used to predict the answer. 
 
