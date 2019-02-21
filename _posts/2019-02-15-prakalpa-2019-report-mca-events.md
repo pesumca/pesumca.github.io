@@ -94,4 +94,5 @@ One such another project was ‘Baymax’ presented by Amruta of class MCA-II (2
 {% include gallery id="gallery6" layout="half" caption="More pictures of the event" %}
 
 Similarly, there were several other projects being presented, in the form of art or was being depicted as a game which created a lot of interest among the viewers, by the other departments of our college such as the Management department, Engineering department as well as the Hotel management department. The day was filled with lots of fun and learning which persuaded and inspired the students to achieve new goals and it shall be cherished as a memorable day for all
+
 </div>
