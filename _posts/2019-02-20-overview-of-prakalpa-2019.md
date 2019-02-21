@@ -78,9 +78,13 @@ gallery6:
 
 <div style="text-align:justify">
 Prakalpa is a technical fest hosted by PES University Bengaluru every year where over three thousand plus people participate.
+</div>
 
+## Event Highlights
 {% include video id="140viEeyHGgB-dOaIrB1kkyejpUyM1TXL" provider="google-drive" %}
 
+## Overview
+<div style="text-align:justify">
 It’s an Exhibition of all top projects of all departments under one roof. It’s a great opportunity for students to showcase their talent and ideas. People who visit the exhibition include students from other colleges across Bengaluru and various people from all the industries as well.
 
 {% include gallery id="gallery2" layout="half" caption="Students showcasing their projects to COO of PES, Prof. Ajoy Kumar at MCA Stall" %}
