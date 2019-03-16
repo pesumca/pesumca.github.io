@@ -54,10 +54,19 @@ Akshay B A:
       url: "akshayba18@gmail.com"
 Akshita Agarwal:
   name: "Akshita Agarwal"
-  bio: "Student, 4nd Semester, Master of Computer Applications, PES University"
+  bio: "Student, 4th Semester, Master of Computer Applications, PES University"
   avatar: "/assets/images/authors/akshita.jpg"
   location: "Bengaluru, India"
   links:
     - label: "agarwalakshita897@gmail.com"
       icon: "fas fa-fw fa-envelope"
       url: "agarwalakshita897@gmail.com"
+Vijaykumar:
+  name: "Vijaykumar R Pai"
+  bio: "Student, 4th Semester, Master of Computer Applications, PES University"
+  avatar: "/assets/images/authors/vijay.jpg"
+  location: "Bengaluru, India"
+  links:
+    - label: "vijaykumarrpai@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "vijaykumarrpai@gmail.com"
