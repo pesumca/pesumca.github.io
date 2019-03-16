@@ -2,6 +2,8 @@
 main:
   - title: "about();"
     url: /about/
+  - title: "gallery();"
+    url: /gallery/
   - title: "postsByCategory();"
     url: /categories/
   - title: "postsByTags();"

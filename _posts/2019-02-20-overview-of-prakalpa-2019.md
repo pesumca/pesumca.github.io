@@ -7,6 +7,7 @@ header:
   overlay_filter: 0.6
 categories: 
   - Prakalpa
+  - Events
 date: "2019-02-15"
 author: Akshay B A
 
