@@ -42,9 +42,9 @@ gallery2:
     image_path: /assets/images/pi-idea-2019/8.jpg
     alt: "placeholder image 8"
     title: "Daily Weekly Abstract App"
-  - url: /assets/images/pi-idea-2019/8.jpg
-    image_path: /assets/images/pi-idea-2019/8.jpg
-    alt: "placeholder image 8"
+  - url: /assets/images/pi-idea-2019/9.jpg
+    image_path: /assets/images/pi-idea-2019/9.jpg
+    alt: "placeholder image 9"
     title: "Daily Weekly Abstract App"
 ---
 
