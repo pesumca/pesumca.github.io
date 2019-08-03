@@ -4,7 +4,7 @@ excerpt: "Prakalpa is a technical fest hosted by PES University Bengaluru every 
 header:
   teaser: "/assets/images/prakalpa2019/prakalpa.jpg"
   overlay_image: "/assets/images/prakalpa2019/prakalpa.jpg"
-  overlay_filter: 0.6
+  overlay_filter: 0.8
 categories: 
   - Prakalpa
   - Events

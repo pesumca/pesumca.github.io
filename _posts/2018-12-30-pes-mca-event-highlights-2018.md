@@ -4,7 +4,7 @@ excerpt: "Watch the video below to see all the events and activities that happen
 header:
   teaser: "/assets/images/banner/banner-1.jpg"
   overlay_image: "/assets/images/banner/banner-1.jpg"
-  overlay_filter: 0.6
+  overlay_filter: 0.8
 categories: 
   - Highlights
 date: "2018-12-30"

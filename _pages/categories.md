@@ -4,5 +4,5 @@ permalink: /categories/
 layout: categories
 header:
   overlay_image: /assets/images/banner/categories.jpg
-  overlay_filter: 0.6
+  overlay_filter: 0.8
 ---

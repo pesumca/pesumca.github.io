@@ -4,7 +4,7 @@ excerpt: "An event to be remembered. Our students showcased the best, department
 header:
   teaser: "/assets/images/prakalpa2019/prakalpa.jpg"
   overlay_image: "/assets/images/prakalpa2019/prakalpa.jpg"
-  overlay_filter: 0.6
+  overlay_filter: 0.8
 categories: 
   - Prakalpa
 date: "2019-02-15"

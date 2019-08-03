@@ -4,7 +4,7 @@ excerpt: "The Department of Computer Applications organized a 2-day hands-on wor
 header:
   teaser: "/assets/images/workshops/ram-rustagi/ram.jpg"
   overlay_image: "/assets/images/banner/banner-1.jpg"
-  overlay_filter: 0.6
+  overlay_filter: 0.8
 categories: 
   - Events
   - Workshops

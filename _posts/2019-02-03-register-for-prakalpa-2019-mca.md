@@ -4,7 +4,7 @@ excerpt: "Prakalpa is PES University's flagship technological event that showcas
 header:
   teaser: "/assets/images/pages/about.jpg"
   overlay_image: "/assets/images/pages/about.jpg"
-  overlay_filter: 0.6
+  overlay_filter: 0.8
 categories: 
   - Prakalpa
 date: "2019-02-03"

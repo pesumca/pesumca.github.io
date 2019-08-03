@@ -4,16 +4,18 @@ excerpt: "Mr. Mankamana Mishra, a Master of Computer Applications Alumnus from P
 header:
   teaser: "/assets/images/pes/mca-logo.png"
   overlay_image: "/assets/images/banner/banner-1.jpg"
-  overlay_filter: 0.6
+  overlay_filter: 0.8
 categories: 
   - Alumni
 date: "2019-07-10"
 author: Santosh Katti
 ---
 
+He bagged the internship offer at CISCO through Campus Placements during the year 2010, and later he was offered with full-time employment.  
+
 ![Mankamana](/assets/images/authors/mankamana.jpg){: .align-right}
 
-He bagged the internship offer at CISCO through Campus Placements during the year 2010, and later he was offered with full-time employment.  It gives us immense pleasure to express that, through CISCO, he successfully got patent for his work on “Graceful Designated Router Handoff”, from US patent.  The Department and the University proudly and heartily congratulate Mr. Mankamana.
+It gives us immense pleasure to express that, through CISCO, he successfully got patent for his work on “Graceful Designated Router Handoff”, from US patent.  The Department and the University proudly and heartily congratulate Mr. Mankamana.
 {: .text-justify}
 
 **More details:**

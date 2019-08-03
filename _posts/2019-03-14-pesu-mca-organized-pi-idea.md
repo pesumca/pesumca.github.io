@@ -5,7 +5,7 @@ excerpt: "The Dept. of MCA in association with its student club “init” celeb
 header:
   teaser: "/assets/images/pi-idea-2019/1.jpg"
   overlay_image: "/assets/images/pi-idea-2019/1.jpg"
-  overlay_filter: 0.6
+  overlay_filter: 0.8
 categories: 
   - Events
 date: "2019-03-14"
