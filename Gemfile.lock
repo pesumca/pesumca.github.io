@@ -26,9 +26,11 @@ GEM
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x86-mingw32)
     faraday (0.15.3)
       multipart-post (>= 1.2, < 3)
+    ffi (1.9.25)
     ffi (1.9.25-x86-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
@@ -80,6 +82,8 @@ GEM
     mini_portile2 (2.3.0)
     minitest (5.11.3)
     multipart-post (2.0.0)
+    nokogiri (1.8.5)
+      mini_portile2 (~> 2.3.0)
     nokogiri (1.8.5-x86-mingw32)
       mini_portile2 (~> 2.3.0)
     octokit (4.13.0)
@@ -107,6 +111,7 @@ GEM
       thread_safe (~> 0.1)
 
 PLATFORMS
+  ruby
   x86-mingw32
 
 DEPENDENCIES
@@ -115,4 +120,4 @@ DEPENDENCIES
   rake (~> 10.0)
 
 BUNDLED WITH
-   1.16.6
+   1.17.2
